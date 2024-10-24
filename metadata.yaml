@@ -1,0 +1,38 @@
+_repo: With-George-Washington-into-the-wilderness-b-The-Adventures-of-Robert-the-hunter-while-he-was__74602
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Thomson, Will
+    gutenberg_agent_id: '42358'
+    url: http://www.gutenberg.org/2009/agents/42358
+creator:
+  author:
+    agent_name: Sabin, Edwin L. (Edwin Legrand)
+    alias: Sabin, Edwin Legrand
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '9476'
+    url: http://www.gutenberg.org/2009/agents/9476
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_L._Sabin
+description: ''
+gutenberg_issued: '2024-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74602'
+language: en
+pgterms:marc905: 20190317101732sabin
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bJ. B. Lippincott Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'With George Washington into the wilderness : $b The Adventures of Robert the
+  hunter while he was learning to be a new American under the young chief, George
+  Washington, when the Ohio country was gained for the English-speaking people and
+  Washington himself won the right to high command in war and peace'
+url: http://www.gutenberg.org/ebooks/74602
