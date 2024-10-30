@@ -5,6 +5,9 @@ contributor:
     agent_name: Thomson, Will
     gutenberg_agent_id: '42358'
     url: http://www.gutenberg.org/2009/agents/42358
+covers:
+- cover_type: archival
+  image_path: 74602-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Sabin, Edwin L. (Edwin Legrand)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9476
     wikipedia: https://en.wikipedia.org/wiki/Edwin_L._Sabin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74602#With-George-Washington-into-the-wilderness-b-The-Adventures-of-Robert-the-hunter-while-he-was_
 gutenberg_issued: '2024-10-19'
 gutenberg_type: Text
 identifiers:
